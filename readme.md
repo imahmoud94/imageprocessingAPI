@@ -7,12 +7,15 @@ Scalable project that displays images to front-end through API and resizes image
 ### Scripts
 
 run `npm run build` for initial build
+
 run `npm run nextbuild` for subsequent builds if needed
 
 ### Endpoints
 
 Image API endpoint
+
 Parameters required: filename
+
 Optional parameters for resizing: width, height
 
 ```
