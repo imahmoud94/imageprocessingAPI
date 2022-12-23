@@ -18,7 +18,7 @@ Parameters required: filename
 
 Optional parameters for resizing: width, height
 
-##GET 
+## GET 
 ```
 /api/image?filename=&width=&height=
 ```
