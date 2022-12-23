@@ -18,8 +18,14 @@ Parameters required: filename
 
 Optional parameters for resizing: width, height
 
+## GET
+
+`/api/image?filename=&width=&height=`
+
+Example Usage
+
 ```
-/api/image?filename=&width=&height=
+http://localhost:3000/api/image?filename=fjord&width=300&height=200
 ```
 
 ## Testing
