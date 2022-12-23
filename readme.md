@@ -19,9 +19,6 @@ Parameters required: filename
 Optional parameters for resizing: width, height
 
 ##GET 
-
-| GET | /api/causes | To retrieve all causes on the platform |
-
 ```
 /api/image?filename=&width=&height=
 ```
