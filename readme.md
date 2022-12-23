@@ -22,9 +22,7 @@ Optional parameters for resizing: width, height
 
 `/api/image?filename=&width=&height=`
 
-Example Usage
-
-## GET
+# Example Usage
 
 ```
 http://localhost:3000/api/image?filename=fjord&width=300&height=200
